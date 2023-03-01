@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">nrz473_lab3</string>
+    <string name="button_3">Black Panther</string>
+    <string name="button_4">Black Widow</string>
+    <string name="button_5">Hawkeye</string>
+    <string name="button_6">Hulk</string>
+    <string name="button_7">Iron man</string>
+    <string name="button_8">Doctor Strange</string>
+    <string name="shield_avenger_locator">S.H.I.E.L.D Avenger Locator</string>
+
+</resources>
